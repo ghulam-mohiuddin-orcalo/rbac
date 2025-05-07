@@ -1,3 +1,4 @@
+'use client';
 import PermissionGuard from '@/PermissionGuard'
 import { Box, Button } from '@mui/material'
 import React from 'react'
